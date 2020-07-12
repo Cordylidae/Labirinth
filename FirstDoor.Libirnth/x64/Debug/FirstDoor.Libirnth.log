@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(110,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(277,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(506,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(507,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(511,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(512,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(514,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(515,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\FirstDoor.Libirnth\FirstDoor.Libirnth\Main.cpp(524,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FirstDoor.Libirnth.vcxproj -> C:\Users\User\source\repos\FirstDoor.Libirnth\x64\Debug\FirstDoor.Libirnth.exe
